@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Popularlibs
+Bundle-SymbolicName: de.mine.java.popularlibs
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: 
+ ru.mine.maven.libs
+Eclipse-BuddyPolicy: global
+Bundle-ActivationPolicy: lazy
